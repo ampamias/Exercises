@@ -1,0 +1,12 @@
+My example of unstructured text is Mayor Bowser’s Public Calendar daily posts. The posts give the public information about what 
+Bowser is doing at her job every day. It gives times and the name of the event with a description of it and a location. 
+
+This is Tuesday’s post: http://mayor.dc.gov/release/mayor-bowser-public-calendar-tuesday-february-9-2016
+
+It is useful to organize this data because it helps to understand how busy the mayor is and what what issues she is concentrating 
+more on. For example, at the end of her term, a reporter could write a story about her dedication overall and be able to give 
+specific numbers. I know that she is notorious for being significantly late to events so being able to quickly she the average time 
+of delay would be an interesting story. 
+
+I think the events that Bowser has attended or the meetings she has sat in or conducted should be organized by date, time, location, 
+event type, cabinet members that attended the event with her, length of event, and how many minutes after the set time the event started.
